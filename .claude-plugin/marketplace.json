@@ -8,8 +8,8 @@
     {
       "name": "mattpocock-skills",
       "source": {
-        "source": "github",
-        "repo": "mattpocock/skills"
+        "source": "url",
+        "url": "https://github.com/mattpocock/skills.git"
       },
       "description": "Matt Pocock's engineering skills: grilling, TDD, diagnosing-bugs, to-prd, domain-modeling, and more.",
       "author": {
