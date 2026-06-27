@@ -1,0 +1,22 @@
+{
+  "name": "joel-tools",
+  "owner": {
+    "name": "Joel"
+  },
+  "description": "Joel's personal plugin marketplace.",
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": {
+        "source": "github",
+        "repo": "mattpocock/skills"
+      },
+      "description": "Matt Pocock's engineering skills: grilling, TDD, diagnosing-bugs, to-prd, domain-modeling, and more.",
+      "author": {
+        "name": "Matt Pocock"
+      },
+      "homepage": "https://github.com/mattpocock/skills",
+      "license": "MIT"
+    }
+  ]
+}
