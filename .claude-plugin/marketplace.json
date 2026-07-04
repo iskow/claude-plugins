@@ -6,6 +6,14 @@
   "description": "Joel's personal plugin marketplace.",
   "plugins": [
     {
+      "name": "joel-skills",
+      "source": "./plugins/joel-skills",
+      "description": "Joel's personal skills: focus-toolkit, joel-brand, and qc-gate.",
+      "author": {
+        "name": "Joel"
+      }
+    },
+    {
       "name": "mattpocock-skills",
       "source": {
         "source": "url",
