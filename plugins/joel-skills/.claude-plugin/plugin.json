@@ -1,7 +1,7 @@
 {
   "name": "joel-skills",
-  "version": "1.0.0",
-  "description": "Joel's personal skills: focus-toolkit (ADHD-friendly focus tools), joel-brand (personal brand styling), and qc-gate (deliverable QC check).",
+  "version": "1.4.0",
+  "description": "Joel's personal skills: focus-toolkit (ADHD-friendly focus tools), joel-brand (personal brand styling), qc-gate (deliverable QC check), client-intake (client onboarding interview + profile), discovery-form (client-facing discovery questionnaire + scope mapping), case-study (build-to-portfolio write-up), and ediscovery-research (docs-grounded eDiscovery/EDRM research + cert study).",
   "author": {
     "name": "Joel"
   }
