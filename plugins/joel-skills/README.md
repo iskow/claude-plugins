@@ -1,6 +1,6 @@
 # joel-skills
 
-Joel's personal skill bundle. Installs seven skills:
+Joel's personal skill bundle. Installs nine skills:
 
 - **focus-toolkit** — ADHD-friendly focus and executive-function tools (task paralysis shatterer, dopamine menu, body-double sessions, and more).
 - **joel-brand** — applies Joel's personal brand (Cairn / Tessera / Operant themes, type system, voice) to any deliverable.
@@ -9,5 +9,7 @@ Joel's personal skill bundle. Installs seven skills:
 - **discovery-form** — generates a short client-facing discovery questionnaire (fillable PDF / doc / Google-Form-ready) and maps returned answers into a profile and feature scope.
 - **case-study** — turns a finished build into a one-page portfolio piece from the template, saved to `portfolio/`.
 - **ediscovery-research** — docs-grounded eDiscovery/EDRM research and cert study (Relativity PM Specialist + ACEDS CEDS); cites official sources, never touches real case data.
+- **os-audit** — audits Joel's Claude OS against the five-layer rubric: scorecard, gaps, ranked build queue.
+- **sop-builder** — interviews Joel (or digests his notes/transcript) and turns a process into a polished SOP with Mermaid flowchart, output as HTML, PDF, or Word; saves to `sops/`.
 
 New skills get added here as they're built, so one install keeps everything current.
