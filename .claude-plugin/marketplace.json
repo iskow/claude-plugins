@@ -8,7 +8,7 @@
     {
       "name": "joel-skills",
       "source": "./plugins/joel-skills",
-      "description": "Joel's personal skills: focus-toolkit, joel-brand, qc-gate, client-intake, discovery-form, case-study, and ediscovery-research.",
+      "description": "Joel's personal skills: focus-toolkit, joel-brand, qc-gate, client-intake, discovery-form, case-study, ediscovery-research, os-audit, sop-builder, and humanize.",
       "author": {
         "name": "Joel"
       }
@@ -24,6 +24,16 @@
         "name": "Matt Pocock"
       },
       "homepage": "https://github.com/mattpocock/skills",
+      "license": "MIT"
+    },
+    {
+      "name": "engram",
+      "source": "./plugins/engram",
+      "description": "Evidence-based learning engine (vendored): first-principles curricula, generation-first Socratic tutoring, free-recall verification, FSRS-scheduled memory, and explorable HTML artifacts. Provides /learn, /review, and /coach.",
+      "author": {
+        "name": "Quan Duong (nagisanzenin)"
+      },
+      "homepage": "https://github.com/nagisanzenin/engram",
       "license": "MIT"
     }
   ]
